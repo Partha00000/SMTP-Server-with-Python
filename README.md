@@ -10,3 +10,4 @@ To run the SMTP server locally, you'll need the following:
 Python 3.7+
 aiosmtpd library (for handling SMTP protocol)
 A virtual environment (optional, but recommended)
+![image](https://github.com/user-attachments/assets/39359caa-2e96-4cad-8ce1-b67a664a9f04)
